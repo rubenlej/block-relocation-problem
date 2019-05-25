@@ -1,5 +1,4 @@
-# block-relocation-problem
-
+# Reducing the crane working time for the Block Relocation Problem
 MIT License
 
 Copyright (c) 2019 Ruben Lejeune
