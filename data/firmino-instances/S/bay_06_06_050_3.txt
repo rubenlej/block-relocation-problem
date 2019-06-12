@@ -1,0 +1,9 @@
+Tiers: 6
+Stacks: 6
+Containers: 18
+Stack 0: 10   6    1    
+Stack 1: 7    
+Stack 2: 8    9    16   17   
+Stack 3: 13   4    
+Stack 4: 15   2    3    11   12   
+Stack 5: 0    5    14   
